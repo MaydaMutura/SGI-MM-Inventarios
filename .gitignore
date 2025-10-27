@@ -1,0 +1,27 @@
+Archivos y directorios generados por NetBeans/Java/Maven
+
+target/
+nbproject/private/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.log
+
+Java class files
+
+*.class
+
+IDE files
+
+*.iml
+.idea
+.vscode
+.DS_Store
+
+Archivos de la base de datos (evita subir archivos binarios)
+
+*.sqlite
+*.db
